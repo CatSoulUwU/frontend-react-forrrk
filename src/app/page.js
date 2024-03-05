@@ -1,6 +1,5 @@
 "use client"; // This is a client component 👈🏽
 
-import 'bootswatch/dist/Lux/bootstrap.min.css';
 import NavigationSidebar from "./components/NavigationSidebar"
 
 
