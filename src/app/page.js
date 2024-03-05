@@ -1,7 +1,8 @@
 "use client"; // This is a client component 👈🏽
 
-import NavigationSidebar from "./components/NavigationSidebar";
 import "bootswatch/dist/Lux/bootstrap.min.css";
+import NavigationSidebar from "./components/NavigationSidebar";
+
 
 export default function Home() {
 
