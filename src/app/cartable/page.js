@@ -1,7 +1,6 @@
 import NavigationSidebar from "../components/NavigationSidebar";
 import pool from"../../utils/postgres.js";
 import TableCars from "../components/TableCars";
-import "bootswatch/dist/Lux/bootstrap.min.css";
 
   var Cars = [];
 

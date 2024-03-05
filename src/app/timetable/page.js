@@ -2,7 +2,7 @@ import React from 'react'
 import NavigationSidebar from '../components/NavigationSidebar'
 import TableTimetable from '../components/TableTimetable'
 import pool from '@/utils/postgres'
-import "bootswatch/dist/Lux/bootstrap.min.css";
+
 
 var Timetable = []
 var Crew = []

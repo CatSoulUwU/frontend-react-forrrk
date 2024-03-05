@@ -2,7 +2,6 @@ import React from 'react'
 import NavigationSidebar from '../components/NavigationSidebar'
 import TableCrews from '../components/TableCrews'
 import pool from '@/utils/postgres'
-import "bootswatch/dist/Lux/bootstrap.min.css";
     
 
 var Crews=[]
