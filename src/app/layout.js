@@ -1,5 +1,3 @@
-import "bootswatch/dist/Lux/bootstrap.min.css";
-
 export const metadata = {
   title: 'Test for UdmurtOil',
   description: 'Done by Alina Erch',
